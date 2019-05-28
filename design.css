@@ -1,0 +1,23 @@
+body{
+	background-color: lightblue;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+font-size:22px;
+}
+td:hover {
+    background-color: #f5f5f5;
+}
+td {
+    background-color: #a5f3c3;
+    height: 30px;
+}
+table, th, td {
+    border: 1px solid black;
+
+}
+table{
+  width: 150px;
+text-align: center;
+}
