@@ -1,1 +1,2 @@
-# Jezyki-Skryptowe-Sem3 Projekt zaliczeniowy przedmiotu Języki Skryptowe (sem. 3)."
+# Projekt zaliczeniowy przedmiotu Języki Skryptowe (sem. 3).
+## Po więcej informacji sprawdź dokumentację.
